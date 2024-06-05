@@ -1,2 +1,2 @@
 # Clipdrogen
-my new malware
+C++ GDI trojan by red-wipet
